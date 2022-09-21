@@ -148,7 +148,6 @@
 					</plugin>
 				</plugins>
 			</build>
-			<finalName>DevOps_project}</finalName>
 		</profile>
 	</profiles>
 
